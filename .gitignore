@@ -1,3 +1,5 @@
+  #ignore environment files
+  
 .env
 
 .vscode
